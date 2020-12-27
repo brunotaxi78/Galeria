@@ -1,2 +1,2 @@
 # Galeria
-Uma galeria simples usando transition/transfor nas imagens
+Uma galeria simples usando transition/transform nas imagens
